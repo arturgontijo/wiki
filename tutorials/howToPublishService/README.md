@@ -346,7 +346,7 @@ Example (for `endpoint` just use `IP:PORT`):
 # snet client call 0 0.00000001 54.203.198.53:7000 mul '{"a":12,"b":7}'
 ```
 
-- Treasurer:
+## Step 8 (Treasurer):
 
 As the owner of this service you have the right to claim all AGIs that were
 spent with it.
